@@ -1,0 +1,17 @@
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba_de_enemigos.FormularioJuego.resources
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba_de_enemigos.Resources.resources
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba de enemigos.vbproj.GenerateResource.Cache
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba_de_enemigos.FormularioMenu.resources
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba de enemigos.vbproj.ResolveComReference.cache
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\bin\Debug\Interop.WMPLib.dll
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba_de_enemigos.FormularioGameOver.resources
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\prueba_de_enemigos.FormularioPuntajesAltos.resources
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\bin\Debug\Crónicas del Vacio Estelar.exe
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\bin\Debug\Crónicas del Vacio Estelar.pdb
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\bin\Debug\Crónicas del Vacio Estelar.xml
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\Crónicas del Vacio Estelar.exe
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\Crónicas del Vacio Estelar.xml
+C:\Users\BLACKTERZ\Documents\Visual baisc\Clase\nave juego\prueba de enemigos\prueba de enemigos\obj\x86\Debug\Crónicas del Vacio Estelar.pdb

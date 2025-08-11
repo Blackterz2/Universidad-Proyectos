@@ -1,0 +1,197 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CrónicasdelVacioEstelar
+</name>
+</assembly>
+<members>
+<member name="P:prueba_de_enemigos.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.abandonar">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.balaAnimada">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.baladoble">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.baladoble_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.BalaEne_removebg_preview">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Comenzar_partida">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.escudo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Explosion">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Explosion1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.galaxia1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.galaxia2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.galaxiaexpandida">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.GalaxiaPrueba">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.GameOver">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.ImagenDobleDisparo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.MuerteEnemigo">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.MusicRock">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.navealiada8">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.naveEneimga82">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.NaveEnemiga83">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Naveenimga84">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.NewBala">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.panorama1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.panorama2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.panorama3">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.panorama4">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.panorama5">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Propulsion_Frame1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Propulsion_Frame12">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Propulsion_Frame2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Propulsion_Frame22">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Propulsion_FrameNuevo1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.Propulsion_FrameNuevo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.SonidoAliadoBala">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.SonidoDaño">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.SonidoEnemigoBala">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.stars44">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:prueba_de_enemigos.My.Resources.Resources.SueveMusic">
+	<summary>
+  Looks up a localized resource of type System.IO.UnmanagedMemoryStream similar to System.IO.MemoryStream.
+</summary>
+</member><member name="T:prueba_de_enemigos.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="M:prueba_de_enemigos.PowerUp.#ctor(System.Int32,System.Int32,System.Drawing.Image,prueba_de_enemigos.PowerUpTipo)">
+	<summary>
+ Constructor para la clase PowerUp.
+ </summary>
+	<param name="x">Posición X inicial del power-up.</param>
+	<param name="y">Posición Y inicial del power-up.</param>
+	<param name="imagen">La imagen visual del power-up.</param>
+	<param name="tipo">El tipo de power-up (Escudo, DisparoDoble, etc.).</param>
+</member><member name="M:prueba_de_enemigos.PowerUp.Update">
+	<summary>
+ Actualiza la posición del power-up, moviéndolo hacia abajo.
+ </summary>
+</member><member name="M:prueba_de_enemigos.PowerUp.Draw(System.Drawing.Graphics)">
+	<summary>
+ Dibuja el power-up en la pantalla.
+ </summary>
+	<param name="g">El objeto Graphics para dibujar.</param>
+</member><member name="M:prueba_de_enemigos.PowerUp.GetBounds">
+	<summary>
+ Obtiene el rectángulo de colisión del power-up.
+ </summary>
+</member>
+</members>
+</doc>
