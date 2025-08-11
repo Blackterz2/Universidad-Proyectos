@@ -44,7 +44,7 @@ Partial Class FormularioPuntajesAltos
         Me.lbPuntajes.ItemHeight = 16
         Me.lbPuntajes.Location = New System.Drawing.Point(28, 60)
         Me.lbPuntajes.Name = "lbPuntajes"
-        Me.lbPuntajes.Size = New System.Drawing.Size(340, 148)
+        Me.lbPuntajes.Size = New System.Drawing.Size(480, 196)
         Me.lbPuntajes.TabIndex = 1
         '
         'btnCerrar
